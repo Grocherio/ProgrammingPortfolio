@@ -19,9 +19,11 @@ SpaceGame is a fun OOP graphical game with keyboard and mouse listeners.
 
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/SpaceGame.zip)
 
-### SpaceGame
-SpaceGame is a fun OOP graphical game with keyboard and mouse listeners.
+### Calculator
+Calculator is a functional OOP 4-function calculator with additional operations such as the trigonometric functions.
 
-![Gameplay](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/SpaceGameGameplay.png?raw=true)
+![GUI Mockup]()
 
-[Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/SpaceGame.zip)
+![Gameplay]()
+
+[Source Code]()
