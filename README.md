@@ -13,8 +13,8 @@ Skyline High School Computer Programming 1 and 2
 ## Individual Projects (2023-2024)
 
 ### SpaceGame
-OOP graphical game with keyboard and mouse listeners.
+SpaceGame is a fun OOP graphical game with keyboard and mouse listeners.
 
-![Gameplay]()
+![Gameplay](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/SpaceGameGameplay.png?raw=true)
 
 [Source Code]()
