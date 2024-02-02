@@ -2,8 +2,8 @@
 Skyline High School Computer Programming 1 and 2
 
 # USOE Technology Certifications
-* ![ECS](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ECSCertification.pdf)
-* ![Computer Programming 1](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ComputerProgramming1Certificate.pdf)
+* [ECS](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ECSCertification.pdf)
+* [Computer Programming 1](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ComputerProgramming1Certificate.pdf)
 * Computer Programming 2
 
 ## Group Projects (2023-2024)
