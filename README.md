@@ -24,6 +24,6 @@ Calculator is a functional OOP 4-function calculator with additional operations 
 
 ![GUI Mockup]()
 
-![Gameplay]()
+![Screen](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/CalculatorScreen.png?raw=true)
 
 [Source Code]()
