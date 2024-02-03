@@ -30,9 +30,11 @@ Gameplay
 Calculator is a functional OOP 4-function calculator with additional operations such as the trigonometric functions. (Created in Processing)
 
 GUI Mockup
+
 ![GUI Mockup](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/CalculatorGUIMockup.png?raw=true)
 
 Screen
+
 ![Screen](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/CalculatorScreen.png?raw=true)
 
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/Calculator.zip)
