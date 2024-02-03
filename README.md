@@ -22,8 +22,8 @@ SpaceGame is a fun OOP graphical game with keyboard and mouse listeners.
 ### Calculator
 Calculator is a functional OOP 4-function calculator with additional operations such as the trigonometric functions.
 
-![GUI Mockup]()
+![GUI Mockup](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/CalculatorGUIMockup.png?raw=true)
 
 ![Screen](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/CalculatorScreen.png?raw=true)
 
-[Source Code]()
+[Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/Calculator.zip)
