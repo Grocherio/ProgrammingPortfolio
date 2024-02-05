@@ -29,7 +29,7 @@ SpaceGame in action
 ### Calculator
 Calculator is a functional OOP 4-function calculator with additional operations such as the trigonometric functions. (Created in Processing)
 
-GUI Mockup 
+Calculator GUI Mockup
 ![GUI Mockup](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/CalculatorGUIMockup.png?raw=true)
 
 Screen 
