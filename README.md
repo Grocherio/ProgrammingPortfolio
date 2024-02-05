@@ -21,8 +21,8 @@ WordMaker in action
 ### SpaceGame
 SpaceGame is a fun OOP graphical game with keyboard and mouse listeners. (Created in Processing)
 
-SpaceGame in action
-![SpaceGame in action](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/SpaceGameGameplay.png?raw=true)
+SpaceGame Gameplay
+![SpaceGame Gameplay](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/SpaceGameGameplay.png?raw=true)
 
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/SpaceGame.zip)
 
@@ -43,15 +43,15 @@ Screen
 Timeline is a interactive timeline showing a brief history of computers. (Created in Processing)
 
 Screen
-
+![Screen](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/Timeline.png?raw=true)
 
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/Timeline.zip)
 
-### ScreenSaver
-ScreenSaver is a satisfying screen saver with a unique pattern. (Created in Processing)
+### ScreenSaver1
+ScreenSaver1 is a satisfying screen saver with a unique pattern. (Created in Processing)
 
 Screen
-
+![Screen](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ScreenSaver1.png?raw=true)
 
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/ScreenSaver.zip)
 
@@ -59,6 +59,6 @@ Screen
 ScreenSaver2 is another a satisfying screen saver with a unique pattern. (Created in Processing)
 
 Screen
-
+![Screen](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ScreenSaver2.png?raw=true)
 
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/ScreenSaver2.zip)
