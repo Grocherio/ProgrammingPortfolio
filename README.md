@@ -21,8 +21,8 @@ WordMaker in action
 ### SpaceGame
 SpaceGame is a fun OOP graphical game with keyboard and mouse listeners. (Created in Processing)
 
-Gameplay
-![Gameplay](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/SpaceGameGameplay.png?raw=true)
+SpaceGame in action
+![SpaceGame in action](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/SpaceGameGameplay.png?raw=true)
 
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/SpaceGame.zip)
 
