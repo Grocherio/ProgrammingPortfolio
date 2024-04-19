@@ -16,6 +16,11 @@ WordMaker in action
 
 [Source Code](https://replit.com/@9714599/WordMaker)
 
+MathGame is a fun, timed game to train math skills on different fields.
+
+MathGame in action
+![Math Game in action]()
+
 ## Individual Projects (2023 - 2024)
 
 ### SpaceGame
