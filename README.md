@@ -32,6 +32,11 @@ MathGame Class Diagram
 
 ## Individual Projects (2023 - 2024)
 
+### Stoch's Space Expedition
+Stoch's Space Expedition is a fun, text-adventure, farming game! (Created in Replit using C++)
+
+Stoch's Space Expedition is still under development!
+
 ### SpaceGame
 SpaceGame is a fun OOP graphical game with keyboard and mouse listeners. (Created in Processing using Java)
 
