@@ -12,7 +12,7 @@ Skyline High School Computer Programming 1 and 2
 WordMaker generates random imaginary words with corresponding definitions! (Created in Replit)
 
 WordMaker in action
-![WordMaker in action](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/WordMakerInAction.png?raw=true)
+![WordMaker in action](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/WordMaker.png?raw=true)
 
 [Source Code](https://replit.com/@9714599/WordMaker)
 
@@ -27,7 +27,7 @@ MathGame in action
 SpaceGame is a fun OOP graphical game with keyboard and mouse listeners. (Created in Processing)
 
 SpaceGame Gameplay
-![SpaceGame Gameplay](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/SpaceGameGameplay.png?raw=true)
+![SpaceGame Gameplay](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/SpaceGame.png?raw=true)
 
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/SpaceGame.zip)
 
@@ -40,7 +40,7 @@ Calculator GUI Mockup
 
 Screen 
 
-![Screen](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/CalculatorScreen.png?raw=true)
+![Screen](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/Calculator.png?raw=true)
 
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/Calculator.zip)
 
