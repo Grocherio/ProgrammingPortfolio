@@ -19,7 +19,7 @@ WordMaker in action
 MathGame is a fun, timed game to train math skills on different fields.
 
 MathGame in action
-![Math Game in action]()
+![Math Game in action](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/MathGame.png?raw=true)
 
 ## Individual Projects (2023 - 2024)
 
