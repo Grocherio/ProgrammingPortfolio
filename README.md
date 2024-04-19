@@ -9,20 +9,23 @@ Skyline High School Computer Programming 1 and 2
 ## Group Projects (2023 - 2024)
 
 ### WordMaker
-WordMaker generates random imaginary words with corresponding definitions! (Created in Replit)
+WordMaker generates random imaginary words with corresponding definitions! (Created in Replit using C++)
 
 WordMaker in action
+
 ![WordMaker in action](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/WordMaker.png?raw=true)
 
 [Source Code](https://replit.com/@9714599/WordMaker)
 
 ### MathGame
-MathGame is a fun, timed game to train math skills on different fields.
+MathGame is a fun, timed game to train math skills on different fields. (Created in Replit using C++)
 
 MathGame in action
+
 ![Math Game in action](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/MathGame.png?raw=true)
 
 MathGame Class Diagram
+
 ![MathGameGUIMockup](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/MathGameClassDiagram.png?raw=true)
 
 [Source Code](https://replit.com/@9714599/MathGame)
@@ -30,7 +33,7 @@ MathGame Class Diagram
 ## Individual Projects (2023 - 2024)
 
 ### SpaceGame
-SpaceGame is a fun OOP graphical game with keyboard and mouse listeners. (Created in Processing)
+SpaceGame is a fun OOP graphical game with keyboard and mouse listeners. (Created in Processing using Java)
 
 SpaceGame in action
 ![SpaceGame Gameplay](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/SpaceGame.png?raw=true)
@@ -38,7 +41,7 @@ SpaceGame in action
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/SpaceGame.zip)
 
 ### Calculator
-Calculator is a functional OOP 4-function calculator with additional operations such as the trigonometric functions. (Created in Processing)
+Calculator is a functional OOP 4-function calculator with additional operations such as the trigonometric functions. (Created in Processing using Java)
 
 Calculator GUI Mockup
 
@@ -51,7 +54,7 @@ Calculator in action
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/Calculator.zip)
 
 ### Timeline
-Timeline is a interactive timeline showing a brief history of computers. (Created in Processing)
+Timeline is a interactive timeline showing a brief history of computers. (Created in Processing using Java)
 
 Timeline in action
 ![Screen](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/Timeline.png?raw=true)
@@ -59,7 +62,7 @@ Timeline in action
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/Timeline.zip)
 
 ### ScreenSaver1
-ScreenSaver1 is a satisfying screen saver with a unique pattern. (Created in Processing)
+ScreenSaver1 is a satisfying screen saver with a unique pattern. (Created in Processing using Java)
 
 ScreenSaver1 in action
 ![Screen](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ScreenSaver1.png?raw=true)
@@ -67,7 +70,7 @@ ScreenSaver1 in action
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/ScreenSaver.zip)
 
 ### ScreenSaver2
-ScreenSaver2 is another a satisfying screen saver with a unique pattern. (Created in Processing)
+ScreenSaver2 is another a satisfying screen saver with a unique pattern. (Created in Processing using Java)
 
 ScreenSaver2 in action
 ![Screen](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ScreenSaver2.png?raw=true)
