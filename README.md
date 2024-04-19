@@ -16,17 +16,23 @@ WordMaker in action
 
 [Source Code](https://replit.com/@9714599/WordMaker)
 
+### MathGame
 MathGame is a fun, timed game to train math skills on different fields.
 
 MathGame in action
 ![Math Game in action](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/MathGame.png?raw=true)
+
+MathGame Class Diagram
+![MathGameGUIMockup](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/MathGameClassDiagram.png?raw=true)
+
+[Source Code](https://replit.com/@9714599/MathGame)
 
 ## Individual Projects (2023 - 2024)
 
 ### SpaceGame
 SpaceGame is a fun OOP graphical game with keyboard and mouse listeners. (Created in Processing)
 
-SpaceGame Gameplay
+SpaceGame in action
 ![SpaceGame Gameplay](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/SpaceGame.png?raw=true)
 
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/SpaceGame.zip)
@@ -38,16 +44,16 @@ Calculator GUI Mockup
 
 ![GUI Mockup](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/CalculatorGUIMockup.png?raw=true)
 
-Screen 
+Calculator in action 
 
-![Screen](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/Calculator.png?raw=true)
+![Calculator](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/Calculator.png?raw=true)
 
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/Calculator.zip)
 
 ### Timeline
 Timeline is a interactive timeline showing a brief history of computers. (Created in Processing)
 
-Screen
+Timeline in action
 ![Screen](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/Timeline.png?raw=true)
 
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/Timeline.zip)
@@ -55,7 +61,7 @@ Screen
 ### ScreenSaver1
 ScreenSaver1 is a satisfying screen saver with a unique pattern. (Created in Processing)
 
-Screen
+ScreenSaver1 in action
 ![Screen](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ScreenSaver1.png?raw=true)
 
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/ScreenSaver.zip)
@@ -63,7 +69,7 @@ Screen
 ### ScreenSaver2
 ScreenSaver2 is another a satisfying screen saver with a unique pattern. (Created in Processing)
 
-Screen
+ScreenSaver2 in action
 ![Screen](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ScreenSaver2.png?raw=true)
 
 [Source Code](https://github.com/ForestNYoung/programming1portfolio/raw/main/src/ScreenSaver2.zip)
