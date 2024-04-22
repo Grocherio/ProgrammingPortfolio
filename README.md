@@ -13,9 +13,9 @@ WordMaker generates random imaginary words with corresponding definitions! (Crea
 
 WordMaker in action
 
-![WordMaker in action](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/WordMaker.png?raw=true)
+![WordMaker](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/WordMaker.png?raw=true)
 
-[Source Code](https://replit.com/@9714599/WordMaker)
+[Source Code in Replit](https://replit.com/@9714599/WordMaker)
 
 ### MathGame
 MathGame is a fun, timed game to train math skills on different fields. (Created in Replit using C++)
