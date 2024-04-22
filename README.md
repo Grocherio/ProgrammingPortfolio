@@ -28,7 +28,8 @@ MathGame Class Diagram
 
 ![MathGameGUIMockup](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/MathGameClassDiagram.png?raw=true)
 
-[Source Code](https://replit.com/@9714599/MathGame)
+[Source Code in Replit](https://replit.com/@9714599/MathGame)
+[Github Repository](https://github.com/Grocherio/StochSpaceExpedition)
 
 ## Individual Projects (2023 - 2024)
 
