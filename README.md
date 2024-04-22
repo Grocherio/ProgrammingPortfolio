@@ -39,6 +39,8 @@ Stoch's Space Expedition is a fun, text-adventure, farming game! (Created in Rep
 
 Stoch's Space Expedition is still under development!
 
+[Source Code in Replit](https://replit.com/@9714599/StochSpaceExpedition)
+
 [Github Repository](https://github.com/Grocherio/StochSpaceExpedition)
 
 ### SpaceGame
