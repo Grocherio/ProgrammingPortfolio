@@ -29,7 +29,8 @@ MathGame Class Diagram
 ![MathGameGUIMockup](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/MathGameClassDiagram.png?raw=true)
 
 [Source Code in Replit](https://replit.com/@9714599/MathGame)
-[Github Repository](https://github.com/Grocherio/StochSpaceExpedition)
+
+[Github Repository](https://github.com/Grocherio/MathGame)
 
 ## Individual Projects (2023 - 2024)
 
@@ -37,6 +38,8 @@ MathGame Class Diagram
 Stoch's Space Expedition is a fun, text-adventure, farming game! (Created in Replit using C++)
 
 Stoch's Space Expedition is still under development!
+
+[Github Repository](https://github.com/Grocherio/StochSpaceExpedition)
 
 ### SpaceGame
 SpaceGame is a fun OOP graphical game with keyboard and mouse listeners. (Created in Processing using Java)
