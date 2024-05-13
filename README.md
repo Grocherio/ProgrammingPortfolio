@@ -1,6 +1,8 @@
 # Programming I and II Portfolio 2023 - 2024
 Skyline High School Computer Programming 1 and 2 Portfolio by Forest Young
 
+Email: 9714599@graniteschools.org
+
 # USOE Technology Certifications
 * [Exploring Computer Science Certificate](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ECSCertification.pdf)
 * [Computer Programming 1 Certificate](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ComputerProgramming1Certificate.pdf)
