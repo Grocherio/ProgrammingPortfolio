@@ -6,6 +6,7 @@ Skyline High School Computer Programming 1 and 2 Portfolio by Forest Young
 * [Computer Programming 1 Certificate](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ComputerProgramming1Certificate.pdf)
 * [Computer Programming 2 Certificate for C++](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ComputerProgramming2C++Certificate.pdf)
 * [Computer Programming 2 Certificate for Java](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ComputerProgramming2JavaCertificate.pdf)
+* [Computer Programming 2 Certificate for Python](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ComputerProgramming2PythonCertificate.pdf)
 
 ## Group Projects (2023 - 2024)
 
