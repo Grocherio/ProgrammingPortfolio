@@ -9,6 +9,7 @@ Email: [9714599@graniteschools.org](mailto:9714599@graniteschools.org)
 * [Computer Programming 2 Certificate for C++](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ComputerProgramming2C++Certificate.pdf)
 * [Computer Programming 2 Certificate for Java](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ComputerProgramming2JavaCertificate.pdf)
 * [Computer Programming 2 Certificate for Python](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ComputerProgramming2PythonCertificate.pdf)
+* [Computer Programming 2 Certificate for C#](https://github.com/ForestNYoung/programming1portfolio/blob/main/images/ComputerProgramming2C#Certificate.pdf)
 
 ## Group Projects (2023 - 2024)
 
